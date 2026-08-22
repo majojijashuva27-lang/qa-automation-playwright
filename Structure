@@ -1,0 +1,18 @@
+Structure 
+
+qa-automation-playwright
+│
+├── README.md
+├── package.json
+├── playwright.config.ts
+│
+├── pages
+│   ├── LoginPage.ts
+│   └── HomePage.ts
+│
+├── tests
+│   ├── login.spec.ts
+│   └── home.spec.ts
+│
+└── test-data
+    └── users.json
